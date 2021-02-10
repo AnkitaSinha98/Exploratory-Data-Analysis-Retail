@@ -7,8 +7,8 @@
 * [Technologies](#technologies)
 * [Algorithm](#algorithm)
 * [Libraries](#libraries)
-* [Setup](#setup)
 * [YouTube](#youtube)
+* [Setup](#setup)
 
 ## General info
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
